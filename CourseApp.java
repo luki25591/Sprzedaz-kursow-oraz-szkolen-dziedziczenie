@@ -1,4 +1,3 @@
-public class CourseApp {
     public class CourseApp {
         public static void main(String[] args) {
 
@@ -18,5 +17,3 @@ public class CourseApp {
             courseOnline.info();
         }
     }
-
-}

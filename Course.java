@@ -1,4 +1,3 @@
-public class Course {
     public class Course {
         private String ID;//identyfikator
         private double price;//cena
@@ -50,5 +49,3 @@ public class Course {
         }
 
     }
-
-}
